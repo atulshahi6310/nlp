@@ -402,7 +402,7 @@ nlp/
 ## 👨‍💻 Author
 
 **Atul Kumar Shahi**
-B.Tech CSE (AI/ML) — Parul University
+B.Tech CSE (AI/ML)
 
 ---
 
